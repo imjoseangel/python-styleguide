@@ -1,6 +1,7 @@
 # Python Style Guide
 
 **source:** [Google Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
+
 Adapted to Markdown only
 
 ## 1 Background
